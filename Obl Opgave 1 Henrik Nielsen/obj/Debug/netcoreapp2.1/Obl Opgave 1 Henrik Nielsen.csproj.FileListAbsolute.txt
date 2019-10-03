@@ -1,0 +1,9 @@
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\Obl Opgave 1 Henrik Nielsen\bin\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.deps.json
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\Obl Opgave 1 Henrik Nielsen\bin\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.dll
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\Obl Opgave 1 Henrik Nielsen\bin\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.pdb
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\Obl Opgave 1 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.csprojAssemblyReference.cache
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\Obl Opgave 1 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.csproj.CoreCompileInputs.cache
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\Obl Opgave 1 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.AssemblyInfoInputs.cache
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\Obl Opgave 1 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.AssemblyInfo.cs
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\Obl Opgave 1 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.dll
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\Obl Opgave 1 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.pdb

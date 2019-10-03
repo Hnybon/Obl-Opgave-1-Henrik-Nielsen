@@ -1,0 +1,17 @@
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\obj\Debug\netcoreapp2.1\Test.pdb
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.dll
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\bin\Debug\netcoreapp2.1\Obl Opgave 1 Henrik Nielsen.pdb
+C:\Users\hnybo\source\repos\Obl Opgave 1 Henrik Nielsen\BogTest\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
